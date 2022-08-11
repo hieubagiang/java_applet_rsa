@@ -1,0 +1,11 @@
+<JavaCardProject name="RSAExample">
+<USER>
+<PKG name="RSAExample" aid="11 22 33 44 55" major="1" minor="0">
+<APPLET aid="11 22 33 44 55 00" instanceaid="" parameter="" authority="" privileges="" index="25352" name="RSAExample"/>
+</PKG>
+<Libs/>
+</USER>
+<DebugInfo>
+<Protocol name="T0"/>
+</DebugInfo>
+</JavaCardProject>
